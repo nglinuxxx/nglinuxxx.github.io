@@ -10,7 +10,7 @@ pin: true
 
 Halo teman-teman semua,
 
-Nama saya Angga Pradana, senang bisa berkenalan dengan anda melalui blog yang saya beri nama
+Nama saya [Angga Pradana](https://anggaiapradana.github.io){:target="_blank"}, senang bisa berkenalan dengan anda melalui blog yang saya beri nama
 
 > NGLINUX "Ngonfig pakai Linux, yuk!"
 
