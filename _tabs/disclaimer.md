@@ -27,7 +27,7 @@ Update
 ------
 
 Should we update, amend or make any changes to this document, those changes will be prominently posted here. -->
-Semua informasi di situs web ini - https://www.nglinux.my.id - dipublikasikan dengan itikad baik dan hanya untuk tujuan informasi umum. NGLINUX tidak memberikan jaminan apa pun tentang kelengkapan, keandalan, dan keakuratan informasi ini. Setiap tindakan yang Anda lakukan atas informasi yang Anda temukan di situs web ini (NGLINUX), sepenuhnya merupakan risiko Anda sendiri. NGLINUX tidak akan bertanggung jawab atas kerugian dan / atau kerusakan sehubungan dengan penggunaan situs web kami.
+Semua informasi di situs web ini - https://www.nglinux.com - dipublikasikan dengan itikad baik dan hanya untuk tujuan informasi umum. NGLINUX tidak memberikan jaminan apa pun tentang kelengkapan, keandalan, dan keakuratan informasi ini. Setiap tindakan yang Anda lakukan atas informasi yang Anda temukan di situs web ini (NGLINUX), sepenuhnya merupakan risiko Anda sendiri. NGLINUX tidak akan bertanggung jawab atas kerugian dan / atau kerusakan sehubungan dengan penggunaan situs web kami.
 
 Dari situs web kami, Anda dapat mengunjungi situs web lain dengan mengikuti hyperlink ke situs eksternal tersebut. Meskipun kami berusaha keras untuk hanya menyediakan tautan berkualitas ke situs web yang bermanfaat dan etis, kami tidak memiliki kendali atas konten dan sifat situs-situs ini. Tautan ke situs web lain ini tidak menyiratkan rekomendasi untuk semua konten yang ditemukan di situs-situs ini. Pemilik situs dan konten dapat berubah tanpa pemberitahuan dan dapat terjadi sebelum kami memiliki kesempatan untuk menghapus tautan yang mungkin telah 'buruk'.
 
