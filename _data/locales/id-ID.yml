@@ -15,6 +15,9 @@ tabs:
   tags: Tagar
   archives: Arsip
   about: Tentang
+  contact: Kontak
+  disclaimer: Penyangkalan
+  privacy: Kebijakan Privasi
 
 # the text displayed in the search bar & search results
 search:
