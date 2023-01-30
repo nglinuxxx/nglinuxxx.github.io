@@ -14,6 +14,10 @@ Nama saya Angga Indra Adi Pradana atau bisa dipanggil [Angga](https://tkj.smkn1g
 
 > [NGLINUX "Ngonfig pakai Linux, yuk!"](https://nglinux.com){:target="_blank"}
 
+bisa diakses pada laman
+
+> [https://nglinux.com](https://nglinux.com){:target="_blank"}
+
 Saya adalah pengajar SMK untuk kompetensi keahlian Teknik Komputer dan Jaringan dengan salah satu materi utama adalah linux.
 
 # Harapan 
@@ -28,7 +32,11 @@ Jika anda memiliki pertanyaan, kritik, saran, maupun masukan agar blog maupun in
 
 Selain di sini, saya juga aktif menulis di web blog saya lainnya yaitu 
 
-> [Life is My Campus "Practice makes ~~perfect~~ improvement."](https://lifeismycampus.com/){:target="_blank"} 
+> [Life is My Campus "Practice makes ~~perfect~~ improvement."](https://lifeismycampus.com/){:target="_blank"}
+
+bisa diakses pada laman
+
+> [https://lifeismycampus.com](https://lifeismycampus.com/){:target="_blank"}
 
 yang merupakan tempat saya mendokumentasikan materi pembelajaran untuk siswa saya terutama tentang konfigurasi jaringan komputer, saya tunggu kunjungan anda.
 
