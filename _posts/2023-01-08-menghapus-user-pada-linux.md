@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Menghapus user pada Linux
+title: Menghapus User pada Linux
 date: 2023-01-08 00:00 +0000
 author: angga
 categories: [Konfigurasi]
