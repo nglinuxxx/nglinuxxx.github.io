@@ -2,20 +2,20 @@
 title:  "Import File Image VirtualBox Siap Pakai"
 author: angga
 categories: [Tutorial]
-tags: [Linux]
+tags: [linux]
 ---
 
-# Pendahuluan
+## Pendahuluan
 
 Halo teman-teman semua,
 
 Kali ini saya akan berbagi informasi tentang langkah untuk meng-import hasil download file image dari sistem operasi linux, yang nantinya akan bisa kita gunakan untuk belajar konfigurasi.
 
-# Langkah Import File Image ke VirtualBox
+## Langkah Import File Image ke VirtualBox
 
 Karena perbedaan file extension yang disediakan oleh masing-masing situs, maka langkah import dan konfigurasi awal juga sedikit berbeda, yaitu 
 
-## Hasil Download dari Situs [osboxes.org](https://www.osboxes.org)
+### Hasil Download dari Situs [osboxes.org](https://www.osboxes.org)
 
 1. Pastikan folder hasil extract download tersedia
 
@@ -75,7 +75,7 @@ Karena perbedaan file extension yang disediakan oleh masing-masing situs, maka l
 
     ![](/assets/img/2023-01-04-import-vbox-image-linux-siap-pakai/14.png)
 
-## Hasil Download dari Situs [linuxvmimages.com](https://www.linuxvmimages.com)
+### Hasil Download dari Situs [linuxvmimages.com](https://www.linuxvmimages.com)
 
 1. Pastikan folder hasil extract download tersedia
 
@@ -105,7 +105,7 @@ Karena perbedaan file extension yang disediakan oleh masing-masing situs, maka l
 
     ![](/assets/img/2023-01-04-import-vbox-image-linux-siap-pakai/a07.png)
 
-# Kesimpulan
+## Kesimpulan
 
 File image sistem operasi Linux dapat dengan mudah diunduh dan diimport ke VirtualBox dari beberapa situs seperti [https://www.osboxes.org](https://www.osboxes.org) dan [https://www.linuxvmimages.com](https://www.linuxvmimages.com)
 
@@ -113,7 +113,7 @@ File image sistem operasi Linux siap digunakan setelah proses import selesai dil
 
 Username dan password bawaan disediakan oleh situs download tersebut, walau tidak menutup kemungkinan untuk nantinya bisa dibuat user baru.
 
-# Penutup
+## Penutup
 
 Saya merasa sangat terhormat dan mengucapkan terima kasih sudah berkunjung ke blog NGLINUX ini. Saya berharap anda akan menemukan sesuatu yang bermanfaat di sini.
 

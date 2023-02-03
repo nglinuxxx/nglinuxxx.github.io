@@ -2,18 +2,18 @@
 title:  "Membuat User Baru pada Linux"
 author: angga
 categories: [Konfigurasi]
-tags: [Linux, Server, Debian, Rocky]
+tags: [linux, server, debian, rocky]
 ---
 
-# Pendahuluan
+## Pendahuluan
 
 Halo teman-teman semua,
 
-Kali ini saya akan berbagi informasi tentang langkah untuk membuat user baru pada sistem operasi linux terutama server menggunakan perintah terminal.
+Kali ini saya akan berbagi informasi tentang langkah untuk membuat user baru, pada sistem operasi linux terutama server menggunakan perintah terminal.
 
 Pada tulisan kali ini, saya menggunakan 2 distro yaitu Debian 11 dan Rocky Linux 8.
 
-# Kebutuhan Menambah User
+## Kebutuhan Menambah User
 
 Beberapa alasan mengapa Anda mungkin ingin menambah user baru pada sistem operasi Linux, antara lain:
 
@@ -37,14 +37,14 @@ Beberapa alasan mengapa Anda mungkin ingin menambah user baru pada sistem operas
    
    Menambah user baru memungkinkan untuk memantau dan mengevaluasi aktivitas dari setiap user, sehingga anda dapat mengevaluasi efektifitas dari setiap user dalam sistem operasi.
 
-# Langkah dan Perintah Terminal untuk Menambah User pada Debian 11
+## Langkah dan Perintah Terminal untuk Menambah User pada Debian 11
 
 Berikut 2 skenario dalam pembuatan atau penambahan user baru pada Debian 11
 
 1. User `debian` dibuat menggunakan akun `root`
 2. User `debian11` dibuat menggunakan akun `osboxes` (akun lain dengan akses sudo)
  
-## Menggunakan akun root
+### Menggunakan akun root
 
 1. Login sebagai `root`
 
@@ -78,7 +78,7 @@ Berikut 2 skenario dalam pembuatan atau penambahan user baru pada Debian 11
 
    ![](/assets/img/2023-01-06-membuat-user-linux/04.png)
 
-## Menggunakan akun lain dengan akses sudo
+### Menggunakan akun lain dengan akses sudo
 
 1. Login sebagai user dengan akses sudo
    
@@ -115,14 +115,14 @@ Berikut 2 skenario dalam pembuatan atau penambahan user baru pada Debian 11
 
    ![](/assets/img/2023-01-06-membuat-user-linux/09.png)
 
-# Langkah dan Perintah Terminal untuk Menambah User pada Rocky Linux 8
+## Langkah dan Perintah Terminal untuk Menambah User pada Rocky Linux 8
 
 Berikut 2 skenario dalam pembuatan atau penambahan user baru pada Rocky Linux 8
 
 1. User `rocky` dibuat menggunakan akun `root`
 2. User `rocky8` dibuat menggunakan akun `rockylinux` (akun lain dengan akses sudo)
 
-## Menggunakan akun oot
+### Menggunakan akun oot
 
 1. Login sebagai `root`
 
@@ -156,7 +156,7 @@ Berikut 2 skenario dalam pembuatan atau penambahan user baru pada Rocky Linux 8
 
    ![](/assets/img/2023-01-06-membuat-user-linux/13.png)
 
-## Menggunakan akun lain dengan akses sudo
+### Menggunakan akun lain dengan akses sudo
 
 1. Login sebagai user dengan akses sudo
    
@@ -190,7 +190,7 @@ Berikut 2 skenario dalam pembuatan atau penambahan user baru pada Rocky Linux 8
 
    ![](/assets/img/2023-01-06-membuat-user-linux/17.png)
 
-# Penutup
+## Penutup
 
 Saya merasa sangat terhormat dan mengucapkan terima kasih sudah berkunjung ke blog NGLINUX ini. Saya berharap anda akan menemukan sesuatu yang bermanfaat di sini.
 

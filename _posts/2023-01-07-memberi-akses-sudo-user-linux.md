@@ -1,17 +1,17 @@
 ---
-title:  "Memberikan Akses Sudo untuk User Baru pada Linux"
+title:  "Memberikan Akses Sudo untuk User pada Linux"
 author: angga
 categories: [Konfigurasi]
-tags: [Linux, Server, Debian, Rocky]
+tags: [linux, server, debian, rocky]
 ---
 
-# Pendahuluan
+## Pendahuluan
 
 Halo teman-teman semua,
 
-Kali ini saya akan berbagi informasi tentang langkah untuk memberikan hak akses sudo user baru pada sistem operasi linux terutama server menggunakan perintah terminal.
+Kali ini saya akan berbagi informasi tentang langkah untuk memberikan hak akses sudo user, pada sistem operasi linux terutama server menggunakan perintah terminal.
 
-# Akses Sudo pada User
+## Akses Sudo pada User
 
 Akses sudo pada user di sistem operasi Linux adalah hak untuk mengeksekusi perintah sebagai superuser atau administrator sistem. 
 
@@ -23,14 +23,14 @@ Akses sudo dapat diberikan kepada user dengan menambahkan user ke grup `sudo` at
 
 Akses sudo sangat penting untuk manajemen sistem yang efektif, namun juga harus digunakan dengan hati-hati karena perintah yang dijalankan sebagai superuser dapat memiliki dampak yang signifikan pada kinerja sistem dan keamanan.
 
-# Langkah dan Perintah Terminal untuk Memberikan Akses Sudo pada Debian 11
+## Langkah dan Perintah Terminal untuk Memberikan Akses Sudo pada Debian 11
 
 Untuk pemberian hak akses sudo terhadap user di sini, masih menggunakan 2 skenario yang sama seperti [artikel sebelumnya](/posts/membuat-user-linux){:target="_blank"} ketika pembuatan atau penambahan user baru pada Debian 11
 
 1. untuk user `debian` ditambahkan menggunakan akun `root`, sedangkan 
 2. untuk user `debian11` ditambahkan menggunakan akun `osboxes` (akun lain dengan akses sudo)
 
-## Dari akun root
+### Dari akun root
 
 1. Login sistem sebagai `root`
 
@@ -60,7 +60,7 @@ Untuk pemberian hak akses sudo terhadap user di sini, masih menggunakan 2 skenar
 
    Jika perintah dieksekusi, maka penambahkan akses sudo berhasil
 
-## Dari akun lain dengan akses sudo
+### Dari akun lain dengan akses sudo
 
 1. Login sistem sebagai `osboxes`
 
@@ -88,14 +88,14 @@ Untuk pemberian hak akses sudo terhadap user di sini, masih menggunakan 2 skenar
 
    Jika muncul informasi `root`, maka penambahkan akses sudo berhasil
 
-# Langkah dan Perintah Terminal untuk Memberikan Akses Sudo pada Rocky Linux 8
+## Langkah dan Perintah Terminal untuk Memberikan Akses Sudo pada Rocky Linux 8
 
 Untuk pemberian hak akses sudo terhadap user di sini, masih menggunakan 2 skenario yang sama seperti [artikel sebelumnya](/posts/membuat-user-linux){:target="_blank"} ketika pembuatan atau penambahan user baru pada Rocky Linux 8
 
 1. untuk user `rocky` ditambahkan menggunakan akun `root`, sedangkan
 2. untuk user `rocky8` ditambahkan menggunakan akun `rockylinux` (akun lain dengan akses sudo)
 
-## Dari akun root
+### Dari akun root
 
 1. Login sistem sebagai `root`
 
@@ -125,7 +125,7 @@ Untuk pemberian hak akses sudo terhadap user di sini, masih menggunakan 2 skenar
 
    Jika perintah dieksekusi, maka penambahkan akses sudo berhasil
 
-## Dari akun lain dengan akses sudo
+### Dari akun lain dengan akses sudo
 
 1. Login sistem sebagai `rockylinux`
 
@@ -153,7 +153,7 @@ Untuk pemberian hak akses sudo terhadap user di sini, masih menggunakan 2 skenar
 
    Jika muncul informasi `root`, maka penambahkan akses sudo berhasil
 
-# Penutup
+## Penutup
 
 Saya merasa sangat terhormat dan mengucapkan terima kasih sudah berkunjung ke blog NGLINUX ini. Saya berharap anda akan menemukan sesuatu yang bermanfaat di sini.
 

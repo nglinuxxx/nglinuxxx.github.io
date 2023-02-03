@@ -2,7 +2,7 @@
 title:  "Selamat Datang!"
 author: angga
 categories: [Blog]
-tags: [Lainnya]
+tags: [lainnya]
 pin: true
 ---
 

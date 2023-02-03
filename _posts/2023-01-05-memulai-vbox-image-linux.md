@@ -2,16 +2,16 @@
 title:  "Atur Spesifikasi Sumber Daya untuk Memulai Penggunaan VM pada VirtualBox"
 author: angga
 categories: [Tutorial]
-tags: [Linux]
+tags: [linux]
 ---
 
-# Pendahuluan
+## Pendahuluan
 
 Halo teman-teman semua,
 
 Kali ini saya akan berbagi informasi tentang langkah untuk mengatur sumber daya/resources dan memulai hasil import file image dari sistem operasi linux, yang nantinya akan bisa kita gunakan untuk belajar konfigurasi.
 
-# Mengatur Sumber Daya
+## Mengatur Sumber Daya
 
 Sebelum menjalankan linux baik server maupun desktop sebagai virtual machine (vm) di VirtualBox, Anda perlu mengatur beberapa pengaturan dasar untuk memastikan bahwa sistem dapat berjalan dengan baik. 
 
@@ -59,11 +59,11 @@ Berikut adalah beberapa pengaturan yang perlu diperhatikan:
 
    Atau bisa menggunakan pengaturan jaringan lainnya.
 
-# Memulai Virtual Machine
+## Memulai Virtual Machine
 
 Berikut 4 kombinasi username dan password untuk login virtual machine hasil download dari situs `osboxes.org` dan `linuxvmimages.com` yaitu:
 
-## VM dari osboxes.org
+### VM dari osboxes.org
 
 Dalam hal ini menggunakan Debian 11 Server (64-bit)
 
@@ -85,7 +85,7 @@ Dalam hal ini menggunakan Debian 11 Server (64-bit)
 
 List lengkap username dan password untuk distro tersedia dapat dilihat [di sini](https://www.osboxes.org/virtualbox-images/).
    
-## VM dari linuxvmimages.com
+### VM dari linuxvmimages.com
 
 Dalam hal ini menggunakan Rocky Linux 8 Server (64-bit)
 
@@ -107,7 +107,7 @@ Dalam hal ini menggunakan Rocky Linux 8 Server (64-bit)
 
 List lengkap username dan password untuk distro tersedia dapat dilihat [di sini](https://www.linuxvmimages.com/how-to-use/vm-image-password/).
 
-# Penutup
+## Penutup
 
 Saya merasa sangat terhormat dan mengucapkan terima kasih sudah berkunjung ke blog NGLINUX ini. Saya berharap anda akan menemukan sesuatu yang bermanfaat di sini.
 

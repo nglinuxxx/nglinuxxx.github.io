@@ -2,18 +2,20 @@
 title:  "Belajar Linux menggunakan Komputer Asli atau Virtual Machine"
 author: angga
 categories: [Blog]
-tags: [Linux]
+tags: [linux]
 ---
 
-# Pendahuluan
+## Pendahuluan
 
 Halo teman-teman semua,
 
-Berikut pengalaman saya ketika belajar linux. Mungkin dapat membantu teman-teman semua untuk menentukan apakah cara belajar Linux yang tepat dengan menggunakan mesin asli yang terinstall sistem operasi Linux, ataukah dengan menggunakan teknologi virtualisasi seperti VirtualBox, VMware, atau Parallels Desktop.
+Kali ini saya akan berbagi informasi tentang pengalaman saya ketika belajar linux. Dalam pengalaman saya, saya menggunakan 2 skenario yaitu mesin asli dan virtualisasi.
 
-# Mesin Asli vs Virtualisasi
+## Mesin Asli vs Virtualisasi
 
-## Instalasi sistem operasi
+Beberapa alasan berikut bisa menjadi pertimbangan yang mungkin dapat membantu teman-teman semua untuk menentukan apakah cara belajar Linux yang tepat dengan menggunakan mesin asli yang terinstall sistem operasi Linux, ataukah dengan menggunakan teknologi virtualisasi seperti VirtualBox, VMware, atau Parallels Desktop.
+
+### Instalasi sistem operasi
 
 Cara pertama untuk belajar Linux adalah dengan menginstall sistem operasi Linux secara fisik di mesin asli. Hal ini membutuhkan partisi disk yang terpisah dan proses instalasi yang cukup rumit. 
 
@@ -31,7 +33,7 @@ atau
 
 > [https://www.linuxvmimages.com/](https://www.linuxvmimages.com/)
 
-## Ketersediaan hardware
+### Ketersediaan hardware
 
 Mesin asli yang terinstall sistem operasi Linux membutuhkan hardware yang kompatibel dengan sistem operasi tersebut. Hal ini bisa menjadi masalah jika hardware yang dimiliki tidak kompatibel dengan sistem operasi Linux yang ingin dipelajari. 
 
@@ -39,7 +41,7 @@ Sedangkan dengan virtualisasi, sistem operasi Linux dapat dijalankan di atas mes
 
 ![](/assets/img/2023-01-02-belajar-linux-real-vs-virtual/Picture1.jpg)
 
-## Akses root
+### Akses root
 
 Pada sistem operasi Linux yang terinstall di mesin asli, anda biasanya memiliki akses root yang memungkinkan anda untuk mengubah konfigurasi sistem dan menginstall aplikasi dengan mudah. 
 
@@ -47,7 +49,7 @@ Sedangkan pada mesin virtual, anda biasanya tidak memiliki akses root dan harus 
 
 ![](/assets/img/2023-01-02-belajar-linux-real-vs-virtual/Picture2.jpg)
 
-## Kemampuan untuk menggunakan sistem operasi lain secara bersamaan
+### Kemampuan untuk menggunakan sistem operasi lain secara bersamaan
 
 Mesin asli yang terinstall sistem operasi Linux hanya dapat menjalankan satu sistem operasi saja. 
 
@@ -55,7 +57,7 @@ Sedangkan dengan virtualisasi, anda dapat menjalankan beberapa sistem operasi se
 
 ![](/assets/img/2023-01-02-belajar-linux-real-vs-virtual/Picture3.jpg)
 
-## Kemampuan untuk membackup dan restore sistem operasi
+### Kemampuan untuk membackup dan restore sistem operasi
 
 Dengan virtualisasi, anda dapat dengan mudah membackup dan restore sistem operasi yang dijalankan di mesin virtual. 
 
@@ -63,7 +65,7 @@ Sedangkan pada mesin asli yang terinstall sistem operasi Linux, proses backup da
 
 ![](/assets/img/2023-01-02-belajar-linux-real-vs-virtual/Picture4.jpg)
 
-# Penutup
+## Penutup
 
 Saya merasa sangat terhormat dan mengucapkan terima kasih sudah berkunjung ke blog NGLINUX ini. Saya berharap anda akan menemukan sesuatu yang bermanfaat di sini.
 
