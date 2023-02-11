@@ -6,7 +6,7 @@ tags: [lainnya]
 pin: true
 ---
 
-# Pendahuluan
+## Pendahuluan
 
 Halo teman-teman semua,
 
@@ -20,7 +20,7 @@ bisa diakses pada laman
 
 Saya adalah pengajar SMK untuk kompetensi keahlian Teknik Komputer dan Jaringan dengan salah satu materi utama adalah linux.
 
-# Harapan 
+## Doa dan Harapan 
 
 Blog ini merupakan sebuah wadah bagi saya untuk berbagi pengetahuan tentang konfigurasi server maupun desktop menggunakan sistem operasi Linux.
 
@@ -40,7 +40,7 @@ bisa diakses pada laman
 
 yang merupakan tempat saya mendokumentasikan materi pembelajaran untuk siswa saya terutama tentang konfigurasi jaringan komputer, saya tunggu kunjungan anda.
 
-# Penutup
+## Penutup
 
 Saya merasa sangat terhormat dan mengucapkan terima kasih sudah berkunjung ke blog NGLINUX ini. Saya berharap anda akan menemukan sesuatu yang bermanfaat di sini.
 
