@@ -24,16 +24,16 @@ title: NGLINUX                          # the main title
 tagline: Ngonfig pakai Linux, yuk!   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Sebuah blog catatan belajar konfigurasi server dan dekstop menggunakan sistem operasi Linux.
+  Sebuah blog catatan belajar konfigurasi server dan desktop menggunakan sistem operasi Linux.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://nglinux.com'
 
 github:
-  username: github_username             # change to your github username
+  username: nglinuxxx             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: nglinuxxx            # change to your twitter username
 
 social:
   # Change to your full name.
