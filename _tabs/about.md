@@ -4,12 +4,12 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Blog ini menjadi sumber belajar tentang konfigurasi server atau desktop Linux. 
+Blog ini adalah sumber daya untuk mempelajari cara mengonfigurasi server dan desktop Linux.
 
-Anda akan menemukan berbagai tutorial yang menjelaskan langkah-langkah yang harus diambil, lengkap dengan screenshot atau gambar untuk membantu Anda memahami konsep seperti konfigurasi server. 
+Untuk membantu Anda memahami konsep-konsep seperti konfigurasi server, Anda akan menemukan tutorial dengan petunjuk langkah demi langkah dengan tangkapan layar dan gambar.
 
-Selain itu, blog ini juga mempresentasikan artikel tentang perkembangan teknologi Linux terbaru yang bisa menjadi referensi bagi Anda yang ingin belajar lebih banyak tentang sistem operasi ini. 
+Blog ini juga memuat artikel-artikel tentang perkembangan teknologi terbaru di Linux yang mungkin berguna bagi mereka yang ingin mempelajari lebih lanjut tentang sistem operasi ini.
 
-Blog ini juga menyediakan solusi bagi pembaca yang memiliki masalah atau ingin tutorial tertentu melalui komentar atau halaman kontak yang tersedia. 
+Blog ini juga menawarkan solusi bagi para pembaca yang mengalami masalah atau menginginkan tutorial tertentu, baik melalui komentar atau halaman kontak.
 
-Jadi, jangan ragu untuk bertanya atau memberikan saran kepada kami. Kami senang dapat membantu Anda memahami lebih banyak tentang sistem operasi Linux.
+Jadi, jangan ragu untuk mengajukan pertanyaan atau memberikan saran. Kami akan dengan senang hati membantu Anda mempelajari lebih lanjut tentang sistem operasi Linux.

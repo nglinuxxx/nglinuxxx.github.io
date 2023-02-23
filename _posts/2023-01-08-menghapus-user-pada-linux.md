@@ -15,31 +15,31 @@ Kali ini saya akan berbagi informasi tentang langkah untuk menghapus user yang s
 
 ## Catata Penting Sebelum Menghapus User
 
-Beberapa catatan penting yang perlu dipertimbangkan ketika menghapus user pada Linux adalah:
+Ketika menghapus pengguna di Linux, Anda harus memperhatikan hal-hal berikut ini.
 
-1. Backup data
+1. Membuat pencadangan/backup
    
-   Sebelum menghapus user, pastikan untuk membuat cadangan dari semua file yang dibuat oleh user tersebut. Setelah user dihapus, semua file yang dibuat oleh user tersebut akan hilang.
+   Sebelum menghapus pengguna, cadangkan semua file yang dibuat oleh pengguna tersebut. Menghapus pengguna akan mengakibatkan hilangnya semua file yang dibuat oleh pengguna tersebut.
 
-2. Pemindahan file
+2. Mentransfer file
    
-   Jika Anda ingin menyimpan file yang dibuat oleh user yang akan dihapus, pastikan untuk memindahkan file tersebut ke lokasi yang aman.
+   Jika Anda ingin menyimpan file yang dibuat oleh pengguna yang dihapus, pastikan untuk mentransfernya ke lokasi yang aman.
 
-3. Pemindahan hak akses
+3. Mentransfer hak akses
    
-   Jika ada file atau direktori yang dibagikan dengan user lain, pastikan untuk memindahkan hak akses ke user lain sebelum menghapus user.
+   Jika ada file atau direktori yang dibagikan dengan pengguna lain, pastikan untuk mentransfer hak akses ke pengguna lain sebelum menghapus.
 
-4. Pemindahan konfigurasi
+4. Mentransfer pengaturan
    
-   Jika user yang dihapus memiliki konfigurasi yang digunakan oleh sistem, pastikan untuk memindahkan konfigurasi tersebut ke user lain atau mengubah konfigurasi sistem sebelum menghapus user.
+   Jika pengguna jarak jauh memiliki pengaturan yang digunakan oleh sistem, pastikan untuk mentransfer pengaturan ke pengguna lain atau ubah pengaturan sistem sebelum menghapus.
 
-5. Pemindahan tugas
+5. Mentransfer tugas
    
-   Jika user yang dihapus memiliki tugas yang harus dilakukan, pastikan untuk memindahkan tugas tersebut ke user lain sebelum menghapus user.
+   Jika pengguna jarak jauh memiliki tugas, pastikan untuk mentransfernya ke pengguna lain sebelum menghapusnya.
 
-6. Audit
+6. Memeriksa
    
-   Pastikan untuk melakukan audit setelah menghapus user, untuk memastikan tidak ada masalah yang terjadi.
+   Setelah menghapus pengguna, selalu lakukan pemeriksaan untuk memastikan tidak ada masalah.
 
 ## Perintah Terminal untuk Menghapus User pada Debian 11
 

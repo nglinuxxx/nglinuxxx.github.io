@@ -15,45 +15,41 @@ Kali ini saya akan berbagi informasi tentang langkah untuk instalasi dan menjala
 
 ## Apa itu Neofetch
 
-Dari [github repo Neofetch](https://github.com/dylanaraps/neofetch){:target="_blank"}, aplikasi/package ini didefinisikan sebagai adalah aplikasi yang berjalan secara command line/terminal based yang menampilkan informasi sistem suatu komputer. 
+Dari [repositori github Neofetch](https://github.com/dylanaraps/neofet){:target="_blank"}, aplikasi/paket ini didefinisikan sebagai aplikasi berbasis baris perintah/terminal yang menampilkan informasi sistem di komputer.
 
-Memang didesain untuk kebutuhan main-masin, namun aplikasi Neofetch ini dapat menampilkan informasi tentang sistem operasi, perangkat lunak, dan perangkat keras Anda dengan cara yang estetis dengan visual yang lebih menarik ketimbang teks biasa.
+Memang dirancang untuk tujuan bermain game, namun aplikasi Neofetch ini dapat menampilkan informasi tentang sistem operasi, perangkat lunak, dan perangkat keras Anda secara estetis dengan visual yang lebih menarik daripada teks biasa.
 
-Informasi sistem ini nantinya dapat digunakan sebagai objek screenshot yang bisa dibagikan kepada orang lain, misalkan saja di media sosial.
+Informasi sistem ini kemudian dapat digunakan sebagai objek tangkapan layar yang dapat dibagikan kepada orang lain, seperti di jejaring sosial.
 
-Jika perintah `neofetch` berhasil dieksekusi, hasil daftar informasi selengkapnya akan ditampilkan di sebelah logo sistem operasi yang sedang anda pakai. 
+Jika perintah 'neofetch' berhasil dijalankan, daftar lengkap informasi akan ditampilkan di sebelah logo sistem operasi yang sedang Anda gunakan. 
 
 ## Mengapa Butuh Meng-install Neofetch
 
-Melakukan instalasi Neofetch pada komputer Anda dapat memberikan beberapa kemudahan, antara lain
+Menginstal Neofetch di komputer Anda dapat membawa sejumlah manfaat, antara lain
 
-1. Kemudahan melihat informasi sistem yang berjalan
+1. Mudah menampilkan informasi tentang sistem yang sedang berjalan
 
-    Neofetch memungkinkan Anda untuk dengan cepat dan mudah melihat informasi tentang sistem Anda, seperti sistem operasi, kernel, prosesor/CPU, memori/RAM, kartu grafis dan lebih banyak lagi. 
-    
-    Hal ini tentunya dapat membantu Anda menentukan apakah semuanya berjalan dengan benar atau bisa digunakan untuk melakukan tracing jika suatu saat terjadi masalah/kendala pada sistem.
+    Neofetch memungkinkan Anda dengan cepat dan mudah melihat informasi tentang sistem Anda, seperti sistem operasi, kernel, prosesor/CPU, memori/RAM, kartu grafis, dan banyak lagi.
 
-2. Menampilkan tabel informasi sistem
+    Tentu saja, ini dapat membantu Anda menentukan apakah semuanya berfungsi dengan baik atau dapat digunakan untuk memantau jika suatu saat terjadi kesalahan / hambatan dalam sistem.
 
-    Dengan Neofetch ini, Anda dapat membuat tabel yang memberikan gambaran rinci tentang sistem Anda. 
-    
-    Tentunya hal ini dapat berguna sebagai bahan troubleshoot khusunya ketika Anda mencoba melakukan perbandingan spesifikasi beberapa komputer.
+2. Menampilkan panel informasi sistem
 
-3. Mengambil tangkapan layar/screenshot sistem dengan lebih menarik
+    Dengan Neofetch ini Anda dapat membuat tabel yang memberikan gambaran rinci tentang sistem Anda. Tentu saja, ini berguna saat memecahkan masalah perangkat keras, terutama saat mencoba membandingkan spesifikasi beberapa komputer.
 
-    Dengan Neofetch, Anda dapat mengambil tangkapan layar dari sistem Anda dan menampilkannya dengan informasi dalam format visual yang menarik. 
-    
-    Ini memungkinkan Anda untuk dengan mudah berbagi informasi dengan orang lain seperti di media sosial.
-    
-    Manfaat lain juga Anda dapat melakukan berbagi informasi sistem dengan keterbacaan yang jelas, jika suatu saat Anda harus meminta bantuan orang lain dalam menyelesaikan suatu pemasalah yang dihadapi.
+3. Tangkapan layar/tangkapan layar sistem dengan cara yang lebih menyenangkan
 
-4. Penyesuaian terhadap output yang dihasilkan
+    Dengan Neofetch, Anda dapat mengambil screenshot dari sistem Anda dan menampilkannya bersama dengan informasi dalam format visual yang menarik.
 
-    Anda dapat menyesuaikan output Neofetch sesuai keinginan Anda. 
-    
-    Anda dapat memilih informasi apa yang akan ditampilkan dan menentukan bagaimana informasi tersebut harus diformat.
+    Ini memungkinkan Anda untuk dengan mudah berbagi informasi dengan orang lain, seperti di media sosial.
 
-Maka, melakukan installasi Neofetch pada sistem komputer Anda dapat memberikan berbagai manfaat yang berguna dan dapat menjadi alat bantu untuk pemecahan masalah yang dihadapi, bisa juga digunakan untuk membandingkan dengan sistem komputer lain, serta berbagi informasi sistem Anda kepada orang lain.
+    Keuntungan lainnya adalah Anda dapat membagikan informasi sistem dengan keterbacaan yang jelas, jika suatu saat Anda perlu meminta bantuan orang lain untuk menyelesaikan masalah yang Anda hadapi. 4. Sesuaikan output
+
+4. Anda dapat menyesuaikan keluaran Neofetch sesuai keinginan Anda.
+
+    Anda dapat memilih informasi apa yang akan ditampilkan dan menentukan bagaimana formatnya.
+
+    Oleh karena itu, menginstal Neofetch pada sistem komputer Anda dapat memberikan berbagai manfaat yang bermanfaat dan dapat menjadi alat untuk memecahkan masalah yang dihadapi, juga dapat digunakan untuk membandingkan dengan sistem komputer lain dan berbagi informasi tentang sistem Anda dengan orang lain. 
 
 ## Langkah Instalasi dan Eksekusi Neofetch
 
