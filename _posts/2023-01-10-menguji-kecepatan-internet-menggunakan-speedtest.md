@@ -26,7 +26,7 @@ Selain itu, speedtest-cli dapat digunakan untuk mengotomatiskan pengujian kecepa
 
 Speedtest-cli tersedia untuk berbagai sistem operasi, termasuk Linux, macOS, dan Windows, dan dapat diinstal melalui terminal atau dapat dengan mudah diinstal melalui package manager.
 
-## Mengapa Butuh Meng-install speedtest-cli
+## Mengapa Butuh Instal speedtest-cli
 
 Berikut adalah beberapa alasan mengapa kita harus menginstal Speedtest-cli pada komputer Linux kita.
 
